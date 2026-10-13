@@ -1,3 +1,6 @@
 [submodule "kushvinth-design-rules"]
 	path = kushvinth-design-rules
 	url = https://github.com/kushvinth/kds.git
+[submodule "anatomy"]
+	path = anatomy
+	url = https://github.com/wheresryan22/anatomy.git
